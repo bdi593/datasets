@@ -1,0 +1,1674 @@
+{
+  "requestMetadata": {
+    "id": "70811af2-e5c1-4cd8-9996-880136725844",
+    "status": "ok",
+    "html": "https://files.hasdata.com/70811af2-e5c1-4cd8-9996-880136725844.html",
+    "json": "https://files.hasdata.com/70811af2-e5c1-4cd8-9996-880136725844.json",
+    "url": "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=1"
+  },
+  "productResults": [
+    {
+      "position": 1,
+      "asin": "B01H1V7WQU",
+      "title": "LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten Color Correcting Powder Foundation - Light - Buildable Light to Medium Coverage - Demi-Matte Natural Finish",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 19,
+        "beforePrice": 38
+      },
+      "specification": [
+        "0.32 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71zh8GABKAL.jpg",
+      "reviews": {
+        "totalReviews": 67800,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "20K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B01H1V7WQU"
+    },
+    {
+      "position": 2,
+      "asin": "B008C13146",
+      "title": "Maybelline Dream Fresh Skin Hydrating BB cream, 8-in-1 Skin Perfecting Beauty Balm with Broad Spectrum SPF 30, Sheer Tint Coverage, Oil-Free, Light/Medium, 1 Fl Oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 7.99,
+        "beforePrice": 10.99
+      },
+      "specification": [
+        "Hydrating",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61dhZNYpwuL.jpg",
+      "reviews": {
+        "totalReviews": 43600,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 4.45,
+        "quantity": "12 new offers"
+      },
+      "boughtInPastMonth": "20K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B008C13146"
+    },
+    {
+      "position": 3,
+      "asin": "B0BD4MMFVM",
+      "title": "GAOY 16ml 2 Pcs Glassy Gel Top Coat and Base Coat Set,No Wipe Foundation Combination for UV Light Cure Nail Polish",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 5.94,
+        "beforePrice": 6.99
+      },
+      "specification": [
+        "Gel",
+        "0.54 Fl Oz (Pack of 2)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61KI6PPoUGL.jpg",
+      "reviews": {
+        "totalReviews": 800,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0BD4MMFVM"
+    },
+    {
+      "position": 4,
+      "asin": "B0G1T61T7X",
+      "title": "Prime Prometics Color Changing Foundation for Mature Women – Instantly Adapts to Your Skin Tone – Buildable Light-to-Medium Coverage – 12-Hour Wear – Natural Dewy Finish – Hypoallergenic",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 44
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51YPCekMSSL.jpg",
+      "reviews": {
+        "totalReviews": 100,
+        "rating": 4.1
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Thu, Apr 2"
+      },
+      "url": "https://www.amazon.com/dp/B0G1T61T7X"
+    },
+    {
+      "position": 5,
+      "asin": "B0G1VBDXYF",
+      "title": "Luxe Color Changing Foundation for Women – Instantly Adapts to Your Skin Tone – Buildable Light-to-Medium Coverage – 12-Hour Wear – Natural Dewy Finish - Medium",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 39.9
+      },
+      "specification": [
+        "Color Correction",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/716qzZ51eiL.jpg",
+      "reviews": {
+        "totalReviews": 100,
+        "rating": 4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Fri, Apr 10"
+      },
+      "url": "https://www.amazon.com/dp/B0G1VBDXYF"
+    },
+    {
+      "position": 6,
+      "asin": "B0DJ8Z98MY",
+      "title": "Blanc Cover Cream Stick V White - Korean Color-Changing Foundation Stick with Volufiline - Medium to Full Coverage Dewy Finish Base Makeup - Dual-Ended with Detachable Brush (202 Natural)",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 27.9,
+        "beforePrice": 37.2
+      },
+      "specification": [
+        "0.45 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71YffeccGhL.jpg",
+      "reviews": {
+        "totalReviews": 5400,
+        "rating": 3.8
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DJ8Z98MY"
+    },
+    {
+      "position": 7,
+      "asin": "B01ACPW2QC",
+      "title": "COVERGIRL & Olay Simply Ageless 3-in-1 Liquid Foundation, Matte Finish, Hyaluronic & Vitamin C Formula, 220 Creamy Natural, 1 Count",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9.97
+      },
+      "specification": [
+        "Anti-Aging",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71tu-o-RbeL.jpg",
+      "reviews": {
+        "totalReviews": 52900,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 9.95,
+        "quantity": "7 new offers"
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Thu, Apr 2"
+      },
+      "url": "https://www.amazon.com/dp/B01ACPW2QC"
+    },
+    {
+      "position": 8,
+      "asin": "B07CF7BVZK",
+      "title": "Westmore Beauty Body Coverage Perfector – Waterproof Leg & Body Makeup/Bronzer For Women - Best Tattoo Cover Up Makeup & Tattoo Concealer - 3.5 Oz Natural Radiance",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 49
+      },
+      "specification": [
+        "3.5 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61DXG5HxGqL.jpg",
+      "reviews": {
+        "totalReviews": 8500,
+        "rating": 4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "8K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B07CF7BVZK"
+    },
+    {
+      "position": 9,
+      "asin": "B00JZ4V6V4",
+      "title": "e.l.f. Poreless Face Primer, Skin-Smoothing Matte Makeup Base, Minimizes Pores & Fine Lines, Long-Lasting Foundation Primer with Tea Tree & Vitamins A & E, Vegan & Cruelty-Free",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 8.81
+      },
+      "specification": [
+        "Smoothening",
+        "0.47 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/514N8km4BsL.jpg",
+      "reviews": {
+        "totalReviews": 19400,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 8.45,
+        "quantity": "6 new offers"
+      },
+      "boughtInPastMonth": "9K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00JZ4V6V4"
+    },
+    {
+      "position": 10,
+      "asin": "B00L2SNFPQ",
+      "title": "L'Oréal Paris Makeup Magic Skin Beautifier BB Cream Tinted Moisturizer, Anti-Redness, 1 fl oz, 1 Count",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 10.97,
+        "beforePrice": 14.99
+      },
+      "specification": [
+        "Hydrating",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71lcuV3OgwL.jpg",
+      "reviews": {
+        "totalReviews": 48500,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "8K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00L2SNFPQ"
+    },
+    {
+      "position": 11,
+      "asin": "B0080G8Q2U",
+      "title": "bareMinerals Original Loose Powder Foundation SPF 15, Clean Mineral Powder Face Makeup, Sheer-to-Full Coverage, Talc-Free, Non-Comedogenic, Vegan, Cruelty-Free & Dermatologist-Tested",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 33.58,
+        "beforePrice": 39
+      },
+      "specification": [
+        "0.28 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81724OgyQ6L.jpg",
+      "reviews": {
+        "totalReviews": 25200,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "6K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0080G8Q2U"
+    },
+    {
+      "position": 12,
+      "asin": "B0BCGZMTSY",
+      "title": "L'Oreal Paris True Match Super-Blendable Foundation, Medium Coverage Liquid Foundation Makeup, N3, Light Medium, 1 Fl Oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9.97,
+        "beforePrice": 13.99
+      },
+      "specification": [
+        "Moisturizing",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/615tifniQIL.jpg",
+      "reviews": {
+        "totalReviews": 8500,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 9.95,
+        "quantity": "3 new offers"
+      },
+      "boughtInPastMonth": "6K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0BCGZMTSY"
+    },
+    {
+      "position": 13,
+      "asin": "B01BRD1TPI",
+      "title": "LAURA GELLER NEW YORK Baked Double Take Powder Foundation - Fair - Buildable Medium to Full Coverage - Matte Finish",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 22.8,
+        "beforePrice": 36
+      },
+      "specification": [
+        "2 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71Fwe2ead0L.jpg",
+      "reviews": {
+        "totalReviews": 6200,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B01BRD1TPI"
+    },
+    {
+      "position": 14,
+      "asin": "B0DPQJRX8N",
+      "title": "Foundation 4 in 1 - Color Changing Foundation, Medium Spectrum with SPF 50, Hypoallergenic Hydrating Liquid Concealer, Long-lasting & Waterproof Natural Finish - 1.06 fl oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 15.98
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/41C0ICUCTBL.jpg",
+      "reviews": {
+        "totalReviews": 1700,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "6K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DPQJRX8N"
+    },
+    {
+      "position": 15,
+      "asin": "B0B6Q7DZ8P",
+      "title": "Jerome Alexander MagicMinerals AirBrush Foundation – 2 Piece Set with Airbrush Foundation and Kabuki Brush - Spray Makeup with Anti-aging Ingredients for Smooth Radiant Skin - Light Medium",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 13.98,
+        "beforePrice": 22.99
+      },
+      "specification": [
+        "Moisturizing",
+        "1.8 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61Duks1jD3L.jpg",
+      "reviews": {
+        "totalReviews": 2400,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Fri, Apr 3"
+      },
+      "url": "https://www.amazon.com/dp/B0B6Q7DZ8P"
+    },
+    {
+      "position": 16,
+      "asin": "B01LMMZY6O",
+      "title": "IT Cosmetics CC+ Cream - Natural Full Coverage Foundation With SPF 50+, Color Corrector & Anti-Aging Hydrating Serum, Hyaluronic Acid + Peptides, Lightweight Up To 24H Wear, All Skin Types",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 31.2,
+        "beforePrice": 47
+      },
+      "image": "https://m.media-amazon.com/images/I/61byuYaJhpL.jpg",
+      "reviews": {
+        "totalReviews": 3200,
+        "rating": 0
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "4K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B01LMMZY6O"
+    },
+    {
+      "position": 17,
+      "asin": "B0DCHM66GS",
+      "title": "Jerome Alexander My Color Self-Adjusting Foundation, Hydrating & Lightweight Face Makeup, Skincare-Infused, with Kabuki Brush, Medium, 1 oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 14.99,
+        "beforePrice": 30
+      },
+      "specification": [
+        "Hydrating",
+        "1 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51yCry2djNL.jpg",
+      "reviews": {
+        "totalReviews": 1500,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DCHM66GS"
+    },
+    {
+      "position": 18,
+      "asin": "B0FY3Z6S7F",
+      "title": "LUMINESS Liquid Mirage w/SPF 50 Color Adjusting Foundation Kit - Color Changing Foundation, SPF 50 Primer & Makeup Brush, Face Makeup for Mature Skin, 4in1 Liquid Foundation, Concealer & Moisturizer",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 39.99,
+        "beforePrice": 50
+      },
+      "image": "https://m.media-amazon.com/images/I/715VBUaQl4L.jpg",
+      "reviews": {
+        "totalReviews": 274,
+        "rating": 4.1
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 37.99,
+        "quantity": "3 used & new offers"
+      },
+      "boughtInPastMonth": "4K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0FY3Z6S7F"
+    },
+    {
+      "position": 19,
+      "asin": "B091D8BXSQ",
+      "title": "L'Oreal Paris True Match Nude Hyaluronic Tinted Serum Foundation with 1% Hyaluronic acid, Light 2-3, 1 fl. oz.",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 15.82,
+        "beforePrice": 20.99
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61DF9OZhIJL.jpg",
+      "reviews": {
+        "totalReviews": 18700,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "4K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Thu, Apr 2"
+      },
+      "url": "https://www.amazon.com/dp/B091D8BXSQ"
+    },
+    {
+      "position": 20,
+      "asin": "B007A2Z4VQ",
+      "title": "PÜR MINERALS 4-in-1 Pressed Mineral Makeup Powder Foundation with SPF 15 - Concealer & Finishing Compact Pressed Powder for Face - Buildable Medium to Full Coverage Foundation Powder",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 34
+      },
+      "image": "https://m.media-amazon.com/images/I/81awa3HXXPL.jpg",
+      "reviews": {
+        "totalReviews": 11100,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B007A2Z4VQ"
+    },
+    {
+      "position": 21,
+      "asin": "B00D2NUU8Y",
+      "title": "COVERGIRL & Olay Simply Ageless Instant Wrinkle-Defying Foundation, Creamy Natural 0.44 Fl Oz (Pack of 1)",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 14.97,
+        "beforePrice": 19.99
+      },
+      "specification": [
+        "Anti-Aging",
+        "0.4 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71HM+sABq5L.jpg",
+      "reviews": {
+        "totalReviews": 27700,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 14.95,
+        "quantity": "11 new offers"
+      },
+      "boughtInPastMonth": "5K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00D2NUU8Y"
+    },
+    {
+      "position": 22,
+      "asin": "B00I50QVAU",
+      "title": "Almay Skintone Matching Foundation, Smart Shade Face Makeup with SPF 15, Hypoallergenic, Oil-Free, Dermatologist-Tested, 200 Light Medium Mine, 1 fl oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 12.98,
+        "beforePrice": 15.49
+      },
+      "specification": [
+        "Hypoallergenic",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/610Af3YGzWL.jpg",
+      "reviews": {
+        "totalReviews": 8600,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "4K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00I50QVAU"
+    },
+    {
+      "position": 23,
+      "asin": "B0DDTB8LJM",
+      "title": "MISSHA M PERFECT COVER SERUM BB CREAM No.23 Natural Beige-Light/Medium with Cool/Neutral Undertone, Skin Tint, Tinted Moisturizer, Skin Care Foundation Makeup, 1.18 Fl oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 18.9,
+        "beforePrice": 27
+      },
+      "specification": [
+        "Hydrating",
+        "1.18 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61xfz9pFuVL.jpg",
+      "reviews": {
+        "totalReviews": 3200,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DDTB8LJM"
+    },
+    {
+      "position": 24,
+      "asin": "B01LXJHM36",
+      "title": "L.A. Girl HD Pro.Conceal, Peach Corrector GC994",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 5.49,
+        "beforePrice": 6
+      },
+      "specification": [
+        "0.28 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/614Y26kEytL.jpg",
+      "reviews": {
+        "totalReviews": 62100,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "4K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B01LXJHM36"
+    },
+    {
+      "position": 25,
+      "asin": "B077SS92SG",
+      "title": "LAURA GELLER NEW YORK Baked Balance-N-Glow Illuminating Foundation - Medium - Buildable Sheer to Light Coverage - Satin Finish",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 32,
+        "beforePrice": 36
+      },
+      "specification": [
+        "0.28 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61P7mlbq-OL.jpg",
+      "reviews": {
+        "totalReviews": 24500,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B077SS92SG"
+    },
+    {
+      "position": 26,
+      "asin": "B09LCMQM44",
+      "title": "TIRTIR Mask Fit Red Cushion Foundation | Full coverage, Weightless, Skin fit, Satin Glow Finish, Korean Makeup BB Foundation, beauty, Tattoo cover up, Buildable (#21N Ivory, 0.63 Fl Oz)",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 17.5,
+        "beforePrice": 25
+      },
+      "specification": [
+        "Flawless",
+        "0.63 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61iLemSu+FL.jpg",
+      "reviews": {
+        "totalReviews": 3600,
+        "rating": 4.1
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B09LCMQM44"
+    },
+    {
+      "position": 27,
+      "asin": "B0D3JFKVX1",
+      "title": "e.l.f. Soft Glam Foundation, Medium Coverage, Long-Lasting & Buildable Foundation For A Smooth, Satin Finish, Vegan & Cruelty-Free, 25 Light Neutral",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61mmAa7rIdL.jpg",
+      "reviews": {
+        "totalReviews": 10100,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 7.99,
+        "quantity": "3 new offers"
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0D3JFKVX1"
+    },
+    {
+      "position": 28,
+      "asin": "B01N5QC1CL",
+      "title": "M. Asam Magic Finish Make-Up Mousse (1.01 Fl Oz) – 4in1 Primer, Foundation, Concealer & Powder With Buildable Coverage, Hides Redness And Dark Spots, Vegan, For Light To Medium Skin Tones",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 23.49,
+        "beforePrice": 29.99
+      },
+      "specification": [
+        "Smoothing",
+        "1.01 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/81uNUFJN8lL.jpg",
+      "reviews": {
+        "totalReviews": 23200,
+        "rating": 4.1
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B01N5QC1CL"
+    },
+    {
+      "position": 29,
+      "asin": "B0BZQKGZQ3",
+      "title": "Maybelline Super Stay Up to 24HR Skin Tint, Radiant Light-to-Medium Coverage Foundation, Makeup Infused With Vitamin C, 120, 1 Count",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 13.98,
+        "beforePrice": 17.99
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71J1tR6fZ7L.jpg",
+      "reviews": {
+        "totalReviews": 600,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "3K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Thu, Apr 2"
+      },
+      "url": "https://www.amazon.com/dp/B0BZQKGZQ3"
+    },
+    {
+      "position": 30,
+      "asin": "B00PFCSURS",
+      "title": "Maybelline Fit Me Matte + Poreless Liquid Oil-Free Foundation Makeup, Natural Beige, 1 Count (Packaging May Vary)",
+      "isSponsored": false,
+      "specification": [
+        "Flawless",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/711t9wxyobL.jpg",
+      "reviews": {
+        "totalReviews": 154200,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 14.08,
+        "quantity": "5 new offers"
+      },
+      "boughtInPastMonth": "3K+",
+      "url": "https://www.amazon.com/dp/B00PFCSURS"
+    },
+    {
+      "position": 31,
+      "asin": "B0BB313T4N",
+      "title": "ICONIC LONDON Underglow Blurring Primer | Blurs Imperfections and Gives Skin a Radiant Glow, Cruelty-Free, Vegan Makeup Universal Shade, 0.91 Fl oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 34
+      },
+      "specification": [
+        "0.91 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61GXTpwzuXL.jpg",
+      "reviews": {
+        "totalReviews": 756,
+        "rating": 4.2
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0BB313T4N"
+    },
+    {
+      "position": 32,
+      "asin": "0310441870",
+      "title": "NIV, Foundation Study Bible, Leathersoft, Brown, Red Letter",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 16.47,
+        "beforePrice": 39.99
+      },
+      "specification": [
+        "by",
+        "Zondervan"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71GAS4gRE4L.jpg",
+      "reviews": {
+        "totalReviews": 2900,
+        "rating": 4.8
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 9.49,
+        "quantity": "29+ used & new offers"
+      },
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/0310441870"
+    },
+    {
+      "position": 33,
+      "asin": "B07GV322NS",
+      "title": "IT Cosmetics CC+ Cream Illumination - Radiant Full Coverage Foundation With SPF 50+, Color Corrector & Hydrating Anti-Aging Serum, Hydrolyzed Collagen + Peptides, Normal to Dry Skin - 1.08 fl oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 31.2,
+        "beforePrice": 39
+      },
+      "specification": [
+        "1.08 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61BR55O9atL.jpg",
+      "reviews": {
+        "totalReviews": 12700,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B07GV322NS"
+    },
+    {
+      "position": 34,
+      "asin": "B0CGCNJV4P",
+      "title": "RŌZ Foundation Shampoo For All Hair Types & Textures | Hydrating & Cleansing For Healthy Hair| Vegan, Color-Safe, Free of Silicone, Sulfates, Paraben, SLS | Strengthens & Nourishes 10.1 oz/300 mL",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 31.2,
+        "beforePrice": 39
+      },
+      "specification": [
+        "Coconut",
+        "10.1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51WJXbcXHZL.jpg",
+      "reviews": {
+        "totalReviews": 106,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0CGCNJV4P"
+    },
+    {
+      "position": 35,
+      "asin": "B01DPA6JXS",
+      "title": "L'Oreal Paris Makeup Infallible Up to 24HR Pro-Glow Foundation, Creamy Natural, 1 fl oz.",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 12.97,
+        "beforePrice": 15.99
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71sqBg7jeOL.jpg",
+      "reviews": {
+        "totalReviews": 16200,
+        "rating": 4.5
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5"
+      },
+      "url": "https://www.amazon.com/dp/B01DPA6JXS"
+    },
+    {
+      "position": 36,
+      "asin": "B07K6H2P7G",
+      "title": "Amazon Basics Smart Box Spring Bed Base, 5-Inch Height Mattress Foundation, Tool-Free Easy Assembly, Metal Support, Full, 74\" x 53\"",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 86
+      },
+      "image": "https://m.media-amazon.com/images/I/61bt76FjI0S.jpg",
+      "reviews": {
+        "totalReviews": 37900,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 79.92,
+        "quantity": "2+ used & new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B07K6H2P7G"
+    },
+    {
+      "position": 37,
+      "asin": "B0CBS77N87",
+      "title": "EMODA 5 Inch Box Spring Queen Size Bed Base, Heavy Duty Metal Queen Mattress Foundation with Fabric Cover, Easy Assembly, Black",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 69.99,
+        "beforePrice": 82.99
+      },
+      "image": "https://m.media-amazon.com/images/I/81Bq0wz689L.jpg",
+      "reviews": {
+        "totalReviews": 2200,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 46.99,
+        "quantity": "2+ used & new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0CBS77N87"
+    },
+    {
+      "position": 38,
+      "asin": "B002SPVA9K",
+      "title": "Clinique Even Better Makeup Liquid Foundation SPF 15 With Vitamin C For Dry + Oily Combination Skin Types | Medium Coverage + Natural Finish | Evens Skin Tone + Reduces Dark Spots",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 33.15,
+        "beforePrice": 39
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/617V--vUb+L.jpg",
+      "reviews": {
+        "totalReviews": 14200,
+        "rating": 4.7
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B002SPVA9K"
+    },
+    {
+      "position": 39,
+      "asin": "B0BCCDHCZ5",
+      "title": "Maybelline Super Stay Up to 24HR Hybrid Powder-Foundation, Medium-to-Full Coverage Makeup, Matte Finish, 220, 1 Count",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 11.98,
+        "beforePrice": 15.99
+      },
+      "specification": [
+        "0.2 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/91JyCkntOrL.jpg",
+      "reviews": {
+        "totalReviews": 800,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 11.95,
+        "quantity": "8 new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0BCCDHCZ5"
+    },
+    {
+      "position": 40,
+      "asin": "B01M8HNHAK",
+      "title": "L.A. Girl Pro Coverage Liquid Foundation, White, 0.95 Fl Oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 8.86,
+        "beforePrice": 9.99
+      },
+      "specification": [
+        "0.95 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/514Hvhd80pL.jpg",
+      "reviews": {
+        "totalReviews": 8700,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 8.8,
+        "quantity": "10 new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Thu, Apr 2"
+      },
+      "url": "https://www.amazon.com/dp/B01M8HNHAK"
+    },
+    {
+      "position": 41,
+      "asin": "B0868G5TSM",
+      "title": "Bio Mimic Foundation Medium Spectrum by Forever Bloom, Protecting from Sun with SPF50, for Gym, Sports, Dancing",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 42.49
+      },
+      "specification": [
+        "Moisturizing",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51IVOltKGaL.jpg",
+      "reviews": {
+        "totalReviews": 2800,
+        "rating": 4.3
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0868G5TSM"
+    },
+    {
+      "position": 42,
+      "asin": "B07BCC3NN9",
+      "title": "e.l.f. Mineral Infused Face Primer, Primer For A Smooth Foundation Base, Fills In Fine Lines & Refines Complexion, Vegan & Cruelty-free, Large",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 11
+      },
+      "specification": [
+        "Smoothening",
+        "1.01 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51bGUN-gEkL.jpg",
+      "reviews": {
+        "totalReviews": 10500,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 10.95,
+        "quantity": "4 new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B07BCC3NN9"
+    },
+    {
+      "position": 43,
+      "asin": "B0CGCJTRGQ",
+      "title": "RŌZ Foundation Conditioner | For All Hair Types | Soothes, Nourishes | Hydrating Ceramides, Pea Peptides, Avocado Oil, Strengthen, Protect | Vegan, Paraben, SLS, Sulfate-Free | 10.1 oz / 300 mL",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 33.6,
+        "beforePrice": 42
+      },
+      "specification": [
+        "10.1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51giyz8CA0L.jpg",
+      "reviews": {
+        "totalReviews": 64,
+        "rating": 4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "1K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0CGCJTRGQ"
+    },
+    {
+      "position": 44,
+      "asin": "B001268TE0",
+      "title": "L'Oreal Paris True Match Super Blendable Oil Free Powder Foundation, W4 Light Medium, 0.33 oz, Packaging May Vary",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 8.72,
+        "beforePrice": 12.99
+      },
+      "specification": [
+        "0.33 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71nrTOyWguL.jpg",
+      "reviews": {
+        "totalReviews": 20600,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B001268TE0"
+    },
+    {
+      "position": 45,
+      "asin": "B0BBFWFN42",
+      "title": "Tower 28 SunnyDays SPF 30 Tinted Moisturizer - 2-in-1 Buildable Coverage Foundation + Mineral Sunscreen for Face - Zinc Oxide, Aloe & Prickly Pear for Sensitive Skin - 15/Light Warm (1 oz)",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 32
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61VSgJ3dV0L.jpg",
+      "reviews": {
+        "totalReviews": 802,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0BBFWFN42"
+    },
+    {
+      "position": 46,
+      "asin": "B00AOU5NVC",
+      "title": "Neutrogena Mineral Sheers Lightweight Loose Powder Makeup Foundation with Vitamins A, C, & E, Sheer to Medium Buildable Coverage, Skin Tone Enhancer, Face Redness Reducer, Nude 40,.19 oz",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9.47,
+        "beforePrice": 18.69
+      },
+      "specification": [
+        "0.19 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/61Mr0L2paUL.jpg",
+      "reviews": {
+        "totalReviews": 7500,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "1K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00AOU5NVC"
+    },
+    {
+      "position": 47,
+      "asin": "B00757ASD0",
+      "title": "CoverGirl Aquasmooth SPF 20 Compact Foundation, 725 Buff Beige, 0.4 Ounce",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9.88
+      },
+      "specification": [
+        "Flawless,Moisture",
+        "0.4 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71hm2R-GFTL.jpg",
+      "reviews": {
+        "totalReviews": 3100,
+        "rating": 0
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "moreBuyingChoises": {
+        "priceFrom": 9.87,
+        "quantity": "8 new offers"
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B00757ASD0"
+    },
+    {
+      "position": 48,
+      "asin": "B0DLHD2DVC",
+      "title": "Maybelline Super Stay Lumi-Matte Foundation, Lightweight and Buildable Full Coverage Foundation Makeup For Up To 30HR Wear, 120, 1 Count",
+      "isSponsored": false,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 11.83,
+        "beforePrice": 15.99
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71k1xC+ZhLL.jpg",
+      "reviews": {
+        "totalReviews": 3800,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "2K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DLHD2DVC"
+    },
+    {
+      "position": 49,
+      "asin": "B0169YYCP4",
+      "title": "Maybelline Fit Me Matte + Poreless Liquid Oil-Free Foundation Makeup, Cappuccino, 1 Count (Packaging May Vary)",
+      "isSponsored": true,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 8.98,
+        "beforePrice": 11.99
+      },
+      "specification": [
+        "Flawless",
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71J1PQ5JxxL.jpg",
+      "reviews": {
+        "totalReviews": 154200,
+        "rating": 4.6
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "500+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0169YYCP4"
+    },
+    {
+      "position": 50,
+      "asin": "B0DJ8Z98MY",
+      "title": "Blanc Cover Cream Stick V White - Korean Color-Changing Foundation Stick with Volufiline - Medium to Full Coverage Dewy Finish Base Makeup - Dual-Ended with Detachable Brush (202 Natural)",
+      "isSponsored": true,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 27.9,
+        "beforePrice": 37.2
+      },
+      "specification": [
+        "0.45 Ounce (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71YffeccGhL.jpg",
+      "reviews": {
+        "totalReviews": 5400,
+        "rating": 3.8
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "10K+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0DJ8Z98MY"
+    },
+    {
+      "position": 51,
+      "asin": "B0C5GTRPFQ",
+      "title": "Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 1 - Fair with Neutral Peach Undertones (1 Fl Oz)",
+      "isSponsored": true,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 42
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/51RcjuNs3ZL.jpg",
+      "reviews": {
+        "totalReviews": 355,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "200+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0C5GTRPFQ"
+    },
+    {
+      "position": 52,
+      "asin": "B0D3JDKD8D",
+      "title": "e.l.f. Soft Glam Foundation, Medium Coverage, Long-Lasting & Buildable Foundation For A Smooth, Satin Finish, Vegan & Cruelty-Free, 50 Deep Warm",
+      "isSponsored": true,
+      "price": {
+        "symbol": "$",
+        "currentPrice": 9
+      },
+      "specification": [
+        "1 Fl Oz (Pack of 1)"
+      ],
+      "image": "https://m.media-amazon.com/images/I/71jhcn-ofKL.jpg",
+      "reviews": {
+        "totalReviews": 10100,
+        "rating": 4.4
+      },
+      "badges": {
+        "amazonPrime": false,
+        "amazonChoice": false,
+        "amazonExclusive": false,
+        "bestSeller": false
+      },
+      "boughtInPastMonth": "400+",
+      "deliveryInfo": {
+        "freeDelivery": "Sun, Apr 5",
+        "fastestDelivery": "Tomorrow, Apr 1"
+      },
+      "url": "https://www.amazon.com/dp/B0D3JDKD8D"
+    }
+  ],
+  "pagination": {
+    "totalResults": 100000,
+    "currentPage": 1,
+    "nextPageUrl": "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=2",
+    "otherPageUrls": [
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=2",
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=3",
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=4",
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=5",
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=6",
+      "https://www.amazon.com/s?k=foundation&s=exact-aware-popularity-rank&page=7"
+    ]
+  }
+}
